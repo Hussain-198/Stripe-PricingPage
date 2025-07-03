@@ -13,16 +13,16 @@ function PricingTale({ className = "" }) {
           </p>
           <ul className="flex-1 space-y-3 mb-8">
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> Unlimited members
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> Unlimited members
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> 2 teams
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> 2 teams
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> 250 issues
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> 250 issues
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span>{" "}
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span>{" "}
               <a href="#" className="underline">
                 Slack
               </a>{" "}
@@ -32,7 +32,7 @@ function PricingTale({ className = "" }) {
               </a>
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> API access
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> API access
             </li>
           </ul>
           <button className="w-full py-3 rounded-lg bg-[#232329] text-white text-sm font-semibold hover:cursor-pointer hover:bg-zinc-700">
@@ -52,21 +52,21 @@ function PricingTale({ className = "" }) {
           </div>
           <ul className="flex-1 space-y-3 mb-8">
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> All Free features
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> All Free features
               +
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> 5 teams
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> 5 teams
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> Unlimited issues
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> Unlimited issues
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> Unlimited file
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> Unlimited file
               uploads
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> Admin roles
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> Admin roles
             </li>
           </ul>
           <button className="w-full py-3 rounded-lg bg-[#232329] text-white text-sm font-semibold hover:cursor-pointer hover:bg-zinc-700">
@@ -87,34 +87,34 @@ function PricingTale({ className = "" }) {
           </div>
           <ul className="flex-1 space-y-3 mb-8">
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> All Basic features
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> All Basic features
               +
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span>{" "}
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span>{" "}
               <a href="#" className="underline">
                 Linear Asks
               </a>
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> Unlimited teams
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> Unlimited teams
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> Private teams and
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> Private teams and
               guests
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span>{" "}
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span>{" "}
               <a href="#" className="underline">
                 Linear Insights
               </a>
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> Triage
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> Triage
               responsibility
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span>{" "}
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span>{" "}
               <a href="#" className="underline">
                 Zendesk
               </a>{" "}
@@ -145,23 +145,23 @@ function PricingTale({ className = "" }) {
           </p>
           <ul className="flex-1 space-y-3 mb-8">
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> All Business
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> All Business
               features +
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> Advanced{" "}
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> Advanced{" "}
               <a href="#" className="underline">
                 Linear Asks
               </a>
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> Issue{" "}
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> Issue{" "}
               <a href="#" className="underline">
                 SLAs
               </a>
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span>{" "}
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span>{" "}
               <a href="#" className="underline">
                 SAML
               </a>{" "}
@@ -171,10 +171,10 @@ function PricingTale({ className = "" }) {
               </a>
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> Advanced security
+              <span className="bg-indigo-400 rounded-full w-4 h-4 mr-2 text-xs flex justify-center items-center">✔</span> Advanced security
             </li>
             <li className="flex items-center text-gray-200">
-              <span className="text-indigo-400 mr-2">✔</span> Migration and
+              <span className="bg-indigo-400 rounded-full w-5 h-4 mr-2 text-xs flex justify-center items-center">✔</span> Migration and
               onboarding support
             </li>
           </ul>
