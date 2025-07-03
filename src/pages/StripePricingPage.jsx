@@ -1,5 +1,5 @@
 import Navbar from "../components/Navbar";
-import PricingTale from "../components/PricingTable";
+import PricingTable from "../components/PricingTable";
 import CarouselPage from "../components/CarouselPage";
 import PricingDetails from "../components/PricingDetails";
 import FooterPage from "../components/FooterPage";
@@ -17,7 +17,7 @@ function StripePricingPage() {
           issues, enhanced security controls, and additional features.
         </p>
       </div>
-      <PricingTale className="mt-30" />
+      <PricingTable className="mt-30" />
       <CarouselPage className="mt-30" />
       <PricingDetails className="max-w-5xl w-full mt-10 mx-auto" />
       <div className="mt-20 flex justify-center">
