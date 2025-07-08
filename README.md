@@ -1,12 +1,27 @@
-# React + Vite
+# ⚡ Linear Pricing Page – React Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stylish replica of [Linear](https://linear.app/pricing)'s pricing page, rebuilt with React. This project focuses on clean design, smooth transitions, and functional layout — bringing the essence of Linear's UI into code.
 
-Currently, two official plugins are available:
+## 🧩 What's Inside
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React + Tailwind CSS setup
+- Framer Motion for smooth animations
+- Well-structured pricing sections with subtle interactions
+- Component-based and easy to extend
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Check it out here:  
+👉 [Pricing Page](https://stripe-pricing-page.vercel.app/)
+
+## 🔗 Reference
+
+Inspired by the official Linear Pricing Page:  
+🔗 [Linear's Pricing Page](https://linear.app/pricing)
+
+## 📝 Notes
+
+- This is a **UI-only clone** with no backend functionality.
+- Built as a **practice project** to improve layout skills and animation handling.
+- All styling is done using **Tailwind CSS**, and animations use **Framer Motion**.
+- This project is **not affiliated with Linear** and is for educational/demo purposes only.
